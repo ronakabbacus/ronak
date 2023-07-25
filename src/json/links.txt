@@ -1,0 +1,50 @@
+"Html": "https://cdn-icons-png.flaticon.com/512/174/174854.png",
+"Css": "https://cdn-icons-png.flaticon.com/512/732/732190.png",
+"Java": "https://cdn-icons-png.flaticon.com/512/5968/5968282.png",
+"CHash": "https://cdn-icons-png.flaticon.com/512/6132/6132221.png",
+"CPlus": "https://cdn-icons-png.flaticon.com/512/6132/6132222.png",
+"ReactJs": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png",
+"NodeJs": "https://cdn.iconscout.com/icon/free/png-512/free-node-js-1174925.png?f=avif&w=256",
+"VueJS": "https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/vue-js-icon.png",
+"angularJs": "https://angular.io/assets/images/logos/angular/angular.png",
+"NextJs": "https://static-00.iconduck.com/assets.00/nextjs-icon-2048x2048-eugu5rfi.png",
+"NuxtJs": "https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/nuxt-js-icon.png",
+"Laravel": "https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png",
+"Magento": "https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/magento-icon.svg",
+"Wordpress": "https://cdn-icons-png.flaticon.com/512/174/174881.png",
+"Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png",
+"AdobeXD" : "https://cdn-icons-png.flaticon.com/512/5611/5611129.png"
+
+
+"Java": "https://cdn-icons-png.flaticon.com/512/5968/5968282.png",
+"CHash": "https://cdn-icons-png.flaticon.com/512/6132/6132221.png",
+"CPlus": "https://cdn-icons-png.flaticon.com/512/6132/6132222.png",
+"angularJs": "https://angular.io/assets/images/logos/angular/angular.png",
+"Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+
+
+"NodeJs": "https://cdn.iconscout.com/icon/free/png-512/free-node-js-1174925.png?f=avif&w=256",
+"VueJS": "https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/vue-js-icon.png",
+"NextJs": "https://static-00.iconduck.com/assets.00/nextjs-icon-2048x2048-eugu5rfi.png",
+"Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png",
+"AdobeXD" : "https://cdn-icons-png.flaticon.com/512/5611/5611129.png"
+
+
+"Html": "https://cdn-icons-png.flaticon.com/512/174/174854.png",
+"Css": "https://cdn-icons-png.flaticon.com/512/732/732190.png",
+"Bootstrap": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png",
+"Wordpress": "https://cdn-icons-png.flaticon.com/512/174/174881.png",
+"Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+
+
+"CPlus": "https://cdn-icons-png.flaticon.com/512/6132/6132222.png",
+"ReactJs": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png",
+"NodeJs": "https://cdn.iconscout.com/icon/free/png-512/free-node-js-1174925.png?f=avif&w=256",
+"NextJs": "https://static-00.iconduck.com/assets.00/nextjs-icon-2048x2048-eugu5rfi.png",
+"Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+
+"Html": "https://cdn-icons-png.flaticon.com/512/174/174854.png",
+"Css": "https://cdn-icons-png.flaticon.com/512/732/732190.png",
+"Java": "https://cdn-icons-png.flaticon.com/512/5968/5968282.png",
+"angularJs": "https://angular.io/assets/images/logos/angular/angular.png",
+"Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"

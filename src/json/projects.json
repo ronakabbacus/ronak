@@ -1,0 +1,2395 @@
+{
+    "images": [
+        {
+            "id": 1,
+            "image": "https://robohash.org/accusantiumvoluptateseos.png",
+            "name": "Project 01",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/accusantiumvoluptateseos1.png",
+                    "subimg_2": "https://robohash.org/accusantiumvoluptateseos2.png",
+                    "subimg_3": "https://robohash.org/accusantiumvoluptateseos3.png",
+                    "subimg_4": "https://robohash.org/accusantiumvoluptateseos4.png",
+                    "subimg_5": "https://robohash.org/accusantiumvoluptateseos5.png",
+                    "subimg_6": "https://robohash.org/accusantiumvoluptateseos6.png",
+                    "subimg_7": "https://robohash.org/accusantiumvoluptateseos7.png",
+                    "subimg_8": "https://robohash.org/accusantiumvoluptateseos8.png",
+                    "subimg_9": "https://robohash.org/accusantiumvoluptateseos9.png",
+                    "subimg_10": "https://robohash.org/accusantiumvoluptateseos10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "CPlus": "https://cdn-icons-png.flaticon.com/512/6132/6132222.png",
+                "ReactJs": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png",
+                "NodeJs": "https://cdn.iconscout.com/icon/free/png-512/free-node-js-1174925.png?f=avif&w=256",
+                "NextJs": "https://static-00.iconduck.com/assets.00/nextjs-icon-2048x2048-eugu5rfi.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 2,
+            "image": "https://robohash.org/adverovelit.png",
+            "name": "Project 02",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/adverovelit1.png",
+                    "subimg_2": "https://robohash.org/adverovelit2.png",
+                    "subimg_3": "https://robohash.org/adverovelit3.png",
+                    "subimg_4": "https://robohash.org/adverovelit4.png",
+                    "subimg_5": "https://robohash.org/adverovelit5.png",
+                    "subimg_6": "https://robohash.org/adverovelit6.png",
+                    "subimg_7": "https://robohash.org/adverovelit7.png",
+                    "subimg_8": "https://robohash.org/adverovelit8.png",
+                    "subimg_9": "https://robohash.org/adverovelit9.png",
+                    "subimg_10": "https://robohash.org/adverovelit10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "Html": "https://cdn-icons-png.flaticon.com/512/174/174854.png",
+                "Css": "https://cdn-icons-png.flaticon.com/512/732/732190.png",
+                "Bootstrap": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png",
+                "Wordpress": "https://cdn-icons-png.flaticon.com/512/174/174881.png",
+                "AdobeXD" : "https://cdn-icons-png.flaticon.com/512/5611/5611129.png"
+              }
+            ]
+        },
+        {
+            "id": 3,
+            "image": "https://robohash.org/aliquamcumqueiure.png",
+            "name": "Project 03",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/aliquamcumqueiure1.png",
+                    "subimg_2": "https://robohash.org/aliquamcumqueiure2.png",
+                    "subimg_3": "https://robohash.org/aliquamcumqueiure3.png",
+                    "subimg_4": "https://robohash.org/aliquamcumqueiure4.png",
+                    "subimg_5": "https://robohash.org/aliquamcumqueiure5.png",
+                    "subimg_6": "https://robohash.org/aliquamcumqueiure6.png",
+                    "subimg_7": "https://robohash.org/aliquamcumqueiure7.png",
+                    "subimg_8": "https://robohash.org/aliquamcumqueiure8.png",
+                    "subimg_9": "https://robohash.org/aliquamcumqueiure9.png",
+                    "subimg_10": "https://robohash.org/aliquamcumqueiure10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "Html": "https://cdn-icons-png.flaticon.com/512/174/174854.png",
+                "Css": "https://cdn-icons-png.flaticon.com/512/732/732190.png",
+                "Bootstrap": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png",
+                "Wordpress": "https://cdn-icons-png.flaticon.com/512/174/174881.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 4,
+            "image": "https://robohash.org/amettemporeea.png",
+            "name": "Project 04",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/amettemporeea1.png",
+                    "subimg_2": "https://robohash.org/amettemporeea2.png",
+                    "subimg_3": "https://robohash.org/amettemporeea3.png",
+                    "subimg_4": "https://robohash.org/amettemporeea4.png",
+                    "subimg_5": "https://robohash.org/amettemporeea5.png",
+                    "subimg_6": "https://robohash.org/amettemporeea6.png",
+                    "subimg_7": "https://robohash.org/amettemporeea7.png",
+                    "subimg_8": "https://robohash.org/amettemporeea8.png",
+                    "subimg_9": "https://robohash.org/amettemporeea9.png",
+                    "subimg_10": "https://robohash.org/amettemporeea10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "NodeJs": "https://cdn.iconscout.com/icon/free/png-512/free-node-js-1174925.png?f=avif&w=256",
+                "VueJS": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/vue-js-icon.png",
+                "NextJs": "https://static-00.iconduck.com/assets.00/nextjs-icon-2048x2048-eugu5rfi.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png",
+                "AdobeXD" : "https://cdn-icons-png.flaticon.com/512/5611/5611129.png"
+              }
+            ]
+        },
+        {
+            "id": 5,
+            "image": "https://robohash.org/autquiaut.png",
+            "name": "Project 05",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/autquiaut1.png",
+                    "subimg_2": "https://robohash.org/autquiaut2.png",
+                    "subimg_3": "https://robohash.org/autquiaut3.png",
+                    "subimg_4": "https://robohash.org/autquiaut4.png",
+                    "subimg_5": "https://robohash.org/autquiaut5.png",
+                    "subimg_6": "https://robohash.org/autquiaut6.png",
+                    "subimg_7": "https://robohash.org/autquiaut7.png",
+                    "subimg_8": "https://robohash.org/autquiaut8.png",
+                    "subimg_9": "https://robohash.org/autquiaut9.png",
+                    "subimg_10": "https://robohash.org/autquiaut10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "NodeJs": "https://cdn.iconscout.com/icon/free/png-512/free-node-js-1174925.png?f=avif&w=256",
+                "VueJS": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/vue-js-icon.png",
+                "NextJs": "https://static-00.iconduck.com/assets.00/nextjs-icon-2048x2048-eugu5rfi.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png",
+                "AdobeXD" : "https://cdn-icons-png.flaticon.com/512/5611/5611129.png"
+              }
+            ]
+        },
+        {
+            "id": 6,
+            "image": "https://robohash.org/consequunturabnon.png",
+            "name": "Project 06",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/consequunturabnon1.png",
+                    "subimg_2": "https://robohash.org/consequunturabnon2.png",
+                    "subimg_3": "https://robohash.org/consequunturabnon3.png",
+                    "subimg_4": "https://robohash.org/consequunturabnon4.png",
+                    "subimg_5": "https://robohash.org/consequunturabnon5.png",
+                    "subimg_6": "https://robohash.org/consequunturabnon6.png",
+                    "subimg_7": "https://robohash.org/consequunturabnon7.png",
+                    "subimg_8": "https://robohash.org/consequunturabnon8.png",
+                    "subimg_9": "https://robohash.org/consequunturabnon9.png",
+                    "subimg_10": "https://robohash.org/consequunturabnon10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "NodeJs": "https://cdn.iconscout.com/icon/free/png-512/free-node-js-1174925.png?f=avif&w=256",
+                "VueJS": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/vue-js-icon.png",
+                "NextJs": "https://static-00.iconduck.com/assets.00/nextjs-icon-2048x2048-eugu5rfi.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png",
+                "AdobeXD" : "https://cdn-icons-png.flaticon.com/512/5611/5611129.png"
+              }
+            ]
+        },
+        {
+            "id": 7,
+            "image": "https://robohash.org/consequunturautconsequatur.png",
+            "name": "Project 07",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/consequunturautconsequatur1.png",
+                    "subimg_2": "https://robohash.org/consequunturautconsequatur2.png",
+                    "subimg_3": "https://robohash.org/consequunturautconsequatur3.png",
+                    "subimg_4": "https://robohash.org/consequunturautconsequatur4.png",
+                    "subimg_5": "https://robohash.org/consequunturautconsequatur5.png",
+                    "subimg_6": "https://robohash.org/consequunturautconsequatur6.png",
+                    "subimg_7": "https://robohash.org/consequunturautconsequatur7.png",
+                    "subimg_8": "https://robohash.org/consequunturautconsequatur8.png",
+                    "subimg_9": "https://robohash.org/consequunturautconsequatur9.png",
+                    "subimg_10": "https://robohash.org/consequunturautconsequatur10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "Java": "https://cdn-icons-png.flaticon.com/512/5968/5968282.png",
+                "CHash": "https://cdn-icons-png.flaticon.com/512/6132/6132221.png",
+                "CPlus": "https://cdn-icons-png.flaticon.com/512/6132/6132222.png",
+                "angularJs": "https://angular.io/assets/images/logos/angular/angular.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 8,
+            "image": "https://robohash.org/cupiditatererumquos.png",
+            "name": "Project 08",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/cupiditatererumquos1.png",
+                    "subimg_2": "https://robohash.org/cupiditatererumquos2.png",
+                    "subimg_3": "https://robohash.org/cupiditatererumquos3.png",
+                    "subimg_4": "https://robohash.org/cupiditatererumquos4.png",
+                    "subimg_5": "https://robohash.org/cupiditatererumquos5.png",
+                    "subimg_6": "https://robohash.org/cupiditatererumquos6.png",
+                    "subimg_7": "https://robohash.org/cupiditatererumquos7.png",
+                    "subimg_8": "https://robohash.org/cupiditatererumquos8.png",
+                    "subimg_9": "https://robohash.org/cupiditatererumquos9.png",
+                    "subimg_10": "https://robohash.org/cupiditatererumquos10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "Java": "https://cdn-icons-png.flaticon.com/512/5968/5968282.png",
+                "CHash": "https://cdn-icons-png.flaticon.com/512/6132/6132221.png",
+                "CPlus": "https://cdn-icons-png.flaticon.com/512/6132/6132222.png",
+                "angularJs": "https://angular.io/assets/images/logos/angular/angular.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 9,
+            "image": "https://robohash.org/delenitipraesentiumvoluptatum.png",
+            "name": "Project 09",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/delenitipraesentiumvoluptatum1.png",
+                    "subimg_2": "https://robohash.org/delenitipraesentiumvoluptatum2.png",
+                    "subimg_3": "https://robohash.org/delenitipraesentiumvoluptatum3.png",
+                    "subimg_4": "https://robohash.org/delenitipraesentiumvoluptatum4.png",
+                    "subimg_5": "https://robohash.org/delenitipraesentiumvoluptatum5.png",
+                    "subimg_6": "https://robohash.org/delenitipraesentiumvoluptatum6.png",
+                    "subimg_7": "https://robohash.org/delenitipraesentiumvoluptatum7.png",
+                    "subimg_8": "https://robohash.org/delenitipraesentiumvoluptatum8.png",
+                    "subimg_9": "https://robohash.org/delenitipraesentiumvoluptatum9.png",
+                    "subimg_10": "https://robohash.org/delenitipraesentiumvoluptatum10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "Html": "https://cdn-icons-png.flaticon.com/512/174/174854.png",
+                "Css": "https://cdn-icons-png.flaticon.com/512/732/732190.png",
+                "Java": "https://cdn-icons-png.flaticon.com/512/5968/5968282.png",
+                "angularJs": "https://angular.io/assets/images/logos/angular/angular.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 10,
+            "image": "https://robohash.org/doloremautdolores.png",
+            "name": "Project 10",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/doloremautdolores1.png",
+                    "subimg_2": "https://robohash.org/doloremautdolores2.png",
+                    "subimg_3": "https://robohash.org/doloremautdolores3.png",
+                    "subimg_4": "https://robohash.org/doloremautdolores4.png",
+                    "subimg_5": "https://robohash.org/doloremautdolores5.png",
+                    "subimg_6": "https://robohash.org/doloremautdolores6.png",
+                    "subimg_7": "https://robohash.org/doloremautdolores7.png",
+                    "subimg_8": "https://robohash.org/doloremautdolores8.png",
+                    "subimg_9": "https://robohash.org/doloremautdolores9.png",
+                    "subimg_10": "https://robohash.org/doloremautdolores10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "Java": "https://cdn-icons-png.flaticon.com/512/5968/5968282.png",
+                "CHash": "https://cdn-icons-png.flaticon.com/512/6132/6132221.png",
+                "CPlus": "https://cdn-icons-png.flaticon.com/512/6132/6132222.png",
+                "angularJs": "https://angular.io/assets/images/logos/angular/angular.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 11,
+            "image": "https://robohash.org/doloremquesintcorrupti.png",
+            "name": "Project 11",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/doloremquesintcorrupti1.png",
+                    "subimg_2": "https://robohash.org/doloremquesintcorrupti2.png",
+                    "subimg_3": "https://robohash.org/doloremquesintcorrupti3.png",
+                    "subimg_4": "https://robohash.org/doloremquesintcorrupti4.png",
+                    "subimg_5": "https://robohash.org/doloremquesintcorrupti5.png",
+                    "subimg_6": "https://robohash.org/doloremquesintcorrupti6.png",
+                    "subimg_7": "https://robohash.org/doloremquesintcorrupti7.png",
+                    "subimg_8": "https://robohash.org/doloremquesintcorrupti8.png",
+                    "subimg_9": "https://robohash.org/doloremquesintcorrupti9.png",
+                    "subimg_10": "https://robohash.org/doloremquesintcorrupti10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "Html": "https://cdn-icons-png.flaticon.com/512/174/174854.png",
+                "Css": "https://cdn-icons-png.flaticon.com/512/732/732190.png",
+                "Bootstrap": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png",
+                "Wordpress": "https://cdn-icons-png.flaticon.com/512/174/174881.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 12,
+            "image": "https://robohash.org/excepturiiuremolestiae.png",
+            "name": "Project 12",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/excepturiiuremolestiae1.png",
+                    "subimg_2": "https://robohash.org/excepturiiuremolestiae2.png",
+                    "subimg_3": "https://robohash.org/excepturiiuremolestiae3.png",
+                    "subimg_4": "https://robohash.org/excepturiiuremolestiae4.png",
+                    "subimg_5": "https://robohash.org/excepturiiuremolestiae5.png",
+                    "subimg_6": "https://robohash.org/excepturiiuremolestiae6.png",
+                    "subimg_7": "https://robohash.org/excepturiiuremolestiae7.png",
+                    "subimg_8": "https://robohash.org/excepturiiuremolestiae8.png",
+                    "subimg_9": "https://robohash.org/excepturiiuremolestiae9.png",
+                    "subimg_10": "https://robohash.org/excepturiiuremolestiae10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "CPlus": "https://cdn-icons-png.flaticon.com/512/6132/6132222.png",
+                "ReactJs": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png",
+                "NodeJs": "https://cdn.iconscout.com/icon/free/png-512/free-node-js-1174925.png?f=avif&w=256",
+                "NextJs": "https://static-00.iconduck.com/assets.00/nextjs-icon-2048x2048-eugu5rfi.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 13,
+            "image": "https://robohash.org/facilisdignissimosdolore.png",
+            "name": "Project 13",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/facilisdignissimosdolore1.png",
+                    "subimg_2": "https://robohash.org/facilisdignissimosdolore2.png",
+                    "subimg_3": "https://robohash.org/facilisdignissimosdolore3.png",
+                    "subimg_4": "https://robohash.org/facilisdignissimosdolore4.png",
+                    "subimg_5": "https://robohash.org/facilisdignissimosdolore5.png",
+                    "subimg_6": "https://robohash.org/facilisdignissimosdolore6.png",
+                    "subimg_7": "https://robohash.org/facilisdignissimosdolore7.png",
+                    "subimg_8": "https://robohash.org/facilisdignissimosdolore8.png",
+                    "subimg_9": "https://robohash.org/facilisdignissimosdolore9.png",
+                    "subimg_10": "https://robohash.org/facilisdignissimosdolore10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "CPlus": "https://cdn-icons-png.flaticon.com/512/6132/6132222.png",
+                "ReactJs": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png",
+                "NodeJs": "https://cdn.iconscout.com/icon/free/png-512/free-node-js-1174925.png?f=avif&w=256",
+                "NextJs": "https://static-00.iconduck.com/assets.00/nextjs-icon-2048x2048-eugu5rfi.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 14,
+            "image": "https://robohash.org/hicveldicta.png",
+            "name": "Project 14",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/hicveldicta1.png",
+                    "subimg_2": "https://robohash.org/hicveldicta2.png",
+                    "subimg_3": "https://robohash.org/hicveldicta3.png",
+                    "subimg_4": "https://robohash.org/hicveldicta4.png",
+                    "subimg_5": "https://robohash.org/hicveldicta5.png",
+                    "subimg_6": "https://robohash.org/hicveldicta6.png",
+                    "subimg_7": "https://robohash.org/hicveldicta7.png",
+                    "subimg_8": "https://robohash.org/hicveldicta8.png",
+                    "subimg_9": "https://robohash.org/hicveldicta9.png",
+                    "subimg_10": "https://robohash.org/hicveldicta10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "CPlus": "https://cdn-icons-png.flaticon.com/512/6132/6132222.png",
+                "ReactJs": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png",
+                "NodeJs": "https://cdn.iconscout.com/icon/free/png-512/free-node-js-1174925.png?f=avif&w=256",
+                "NextJs": "https://static-00.iconduck.com/assets.00/nextjs-icon-2048x2048-eugu5rfi.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 15,
+            "image": "https://robohash.org/impeditautest.png",
+            "name": "Project 15",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/impeditautest1.png",
+                    "subimg_2": "https://robohash.org/impeditautest2.png",
+                    "subimg_3": "https://robohash.org/impeditautest3.png",
+                    "subimg_4": "https://robohash.org/impeditautest4.png",
+                    "subimg_5": "https://robohash.org/impeditautest5.png",
+                    "subimg_6": "https://robohash.org/impeditautest6.png",
+                    "subimg_7": "https://robohash.org/impeditautest7.png",
+                    "subimg_8": "https://robohash.org/impeditautest8.png",
+                    "subimg_9": "https://robohash.org/impeditautest9.png",
+                    "subimg_10": "https://robohash.org/impeditautest10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "CPlus": "https://cdn-icons-png.flaticon.com/512/6132/6132222.png",
+                "ReactJs": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png",
+                "NodeJs": "https://cdn.iconscout.com/icon/free/png-512/free-node-js-1174925.png?f=avif&w=256",
+                "NextJs": "https://static-00.iconduck.com/assets.00/nextjs-icon-2048x2048-eugu5rfi.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 16,
+            "image": "https://robohash.org/ipsumutofficiis.png",
+            "name": "Project 16",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/ipsumutofficiis1.png",
+                    "subimg_2": "https://robohash.org/ipsumutofficiis2.png",
+                    "subimg_3": "https://robohash.org/ipsumutofficiis3.png",
+                    "subimg_4": "https://robohash.org/ipsumutofficiis4.png",
+                    "subimg_5": "https://robohash.org/ipsumutofficiis5.png",
+                    "subimg_6": "https://robohash.org/ipsumutofficiis6.png",
+                    "subimg_7": "https://robohash.org/ipsumutofficiis7.png",
+                    "subimg_8": "https://robohash.org/ipsumutofficiis8.png",
+                    "subimg_9": "https://robohash.org/ipsumutofficiis9.png",
+                    "subimg_10": "https://robohash.org/ipsumutofficiis10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "Html": "https://cdn-icons-png.flaticon.com/512/174/174854.png",
+                "Css": "https://cdn-icons-png.flaticon.com/512/732/732190.png",
+                "Java": "https://cdn-icons-png.flaticon.com/512/5968/5968282.png",
+                "angularJs": "https://angular.io/assets/images/logos/angular/angular.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 17,
+            "image": "https://robohash.org/laboriosamfacilisrem.png",
+            "name": "Project 17",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/laboriosamfacilisrem1.png",
+                    "subimg_2": "https://robohash.org/laboriosamfacilisrem2.png",
+                    "subimg_3": "https://robohash.org/laboriosamfacilisrem3.png",
+                    "subimg_4": "https://robohash.org/laboriosamfacilisrem4.png",
+                    "subimg_5": "https://robohash.org/laboriosamfacilisrem5.png",
+                    "subimg_6": "https://robohash.org/laboriosamfacilisrem6.png",
+                    "subimg_7": "https://robohash.org/laboriosamfacilisrem7.png",
+                    "subimg_8": "https://robohash.org/laboriosamfacilisrem8.png",
+                    "subimg_9": "https://robohash.org/laboriosamfacilisrem9.png",
+                    "subimg_10": "https://robohash.org/laboriosamfacilisrem10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "Html": "https://cdn-icons-png.flaticon.com/512/174/174854.png",
+                "Css": "https://cdn-icons-png.flaticon.com/512/732/732190.png",
+                "Java": "https://cdn-icons-png.flaticon.com/512/5968/5968282.png",
+                "angularJs": "https://angular.io/assets/images/logos/angular/angular.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 18,
+            "image": "https://robohash.org/laboriosammollitiaut.png",
+            "name": "Project 18",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/laboriosammollitiaut1.png",
+                    "subimg_2": "https://robohash.org/laboriosammollitiaut2.png",
+                    "subimg_3": "https://robohash.org/laboriosammollitiaut3.png",
+                    "subimg_4": "https://robohash.org/laboriosammollitiaut4.png",
+                    "subimg_5": "https://robohash.org/laboriosammollitiaut5.png",
+                    "subimg_6": "https://robohash.org/laboriosammollitiaut6.png",
+                    "subimg_7": "https://robohash.org/laboriosammollitiaut7.png",
+                    "subimg_8": "https://robohash.org/laboriosammollitiaut8.png",
+                    "subimg_9": "https://robohash.org/laboriosammollitiaut9.png",
+                    "subimg_10": "https://robohash.org/laboriosammollitiaut10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "Html": "https://cdn-icons-png.flaticon.com/512/174/174854.png",
+                "Css": "https://cdn-icons-png.flaticon.com/512/732/732190.png",
+                "Java": "https://cdn-icons-png.flaticon.com/512/5968/5968282.png",
+                "angularJs": "https://angular.io/assets/images/logos/angular/angular.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 19,
+            "image": "https://robohash.org/namquaerataut.png",
+            "name": "Project 19",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/namquaerataut1.png",
+                    "subimg_2": "https://robohash.org/namquaerataut2.png",
+                    "subimg_3": "https://robohash.org/namquaerataut3.png",
+                    "subimg_4": "https://robohash.org/namquaerataut4.png",
+                    "subimg_5": "https://robohash.org/namquaerataut5.png",
+                    "subimg_6": "https://robohash.org/namquaerataut6.png",
+                    "subimg_7": "https://robohash.org/namquaerataut7.png",
+                    "subimg_8": "https://robohash.org/namquaerataut8.png",
+                    "subimg_9": "https://robohash.org/namquaerataut9.png",
+                    "subimg_10": "https://robohash.org/namquaerataut10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "Html": "https://cdn-icons-png.flaticon.com/512/174/174854.png",
+                "Css": "https://cdn-icons-png.flaticon.com/512/732/732190.png",
+                "Java": "https://cdn-icons-png.flaticon.com/512/5968/5968282.png",
+                "angularJs": "https://angular.io/assets/images/logos/angular/angular.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 20,
+            "image": "https://robohash.org/nequeodiosapiente.png",
+            "name": "Project 20",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/nequeodiosapiente1.png",
+                    "subimg_2": "https://robohash.org/nequeodiosapiente2.png",
+                    "subimg_3": "https://robohash.org/nequeodiosapiente3.png",
+                    "subimg_4": "https://robohash.org/nequeodiosapiente4.png",
+                    "subimg_5": "https://robohash.org/nequeodiosapiente5.png",
+                    "subimg_6": "https://robohash.org/nequeodiosapiente6.png",
+                    "subimg_7": "https://robohash.org/nequeodiosapiente7.png",
+                    "subimg_8": "https://robohash.org/nequeodiosapiente8.png",
+                    "subimg_9": "https://robohash.org/nequeodiosapiente9.png",
+                    "subimg_10": "https://robohash.org/nequeodiosapiente10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "NodeJs": "https://cdn.iconscout.com/icon/free/png-512/free-node-js-1174925.png?f=avif&w=256",
+                "VueJS": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/vue-js-icon.png",
+                "NextJs": "https://static-00.iconduck.com/assets.00/nextjs-icon-2048x2048-eugu5rfi.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png",
+                "AdobeXD" : "https://cdn-icons-png.flaticon.com/512/5611/5611129.png"
+              }
+            ]
+        },
+        {
+            "id": 21,
+            "image": "https://robohash.org/nihilharumqui.png",
+            "name": "Project 21",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/nihilharumqui1.png",
+                    "subimg_2": "https://robohash.org/nihilharumqui2.png",
+                    "subimg_3": "https://robohash.org/nihilharumqui3.png",
+                    "subimg_4": "https://robohash.org/nihilharumqui4.png",
+                    "subimg_5": "https://robohash.org/nihilharumqui5.png",
+                    "subimg_6": "https://robohash.org/nihilharumqui6.png",
+                    "subimg_7": "https://robohash.org/nihilharumqui7.png",
+                    "subimg_8": "https://robohash.org/nihilharumqui8.png",
+                    "subimg_9": "https://robohash.org/nihilharumqui9.png",
+                    "subimg_10": "https://robohash.org/nihilharumqui10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "NodeJs": "https://cdn.iconscout.com/icon/free/png-512/free-node-js-1174925.png?f=avif&w=256",
+                "VueJS": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/vue-js-icon.png",
+                "NextJs": "https://static-00.iconduck.com/assets.00/nextjs-icon-2048x2048-eugu5rfi.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png",
+                "AdobeXD" : "https://cdn-icons-png.flaticon.com/512/5611/5611129.png"
+              }
+            ]
+        },
+        {
+            "id": 22,
+            "image": "https://robohash.org/odiomolestiaealias.png",
+            "name": "Project 22",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/odiomolestiaealias1.png",
+                    "subimg_2": "https://robohash.org/odiomolestiaealias2.png",
+                    "subimg_3": "https://robohash.org/odiomolestiaealias3.png",
+                    "subimg_4": "https://robohash.org/odiomolestiaealias4.png",
+                    "subimg_5": "https://robohash.org/odiomolestiaealias5.png",
+                    "subimg_6": "https://robohash.org/odiomolestiaealias6.png",
+                    "subimg_7": "https://robohash.org/odiomolestiaealias7.png",
+                    "subimg_8": "https://robohash.org/odiomolestiaealias8.png",
+                    "subimg_9": "https://robohash.org/odiomolestiaealias9.png",
+                    "subimg_10": "https://robohash.org/odiomolestiaealias10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "NodeJs": "https://cdn.iconscout.com/icon/free/png-512/free-node-js-1174925.png?f=avif&w=256",
+                "VueJS": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/vue-js-icon.png",
+                "NextJs": "https://static-00.iconduck.com/assets.00/nextjs-icon-2048x2048-eugu5rfi.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png",
+                "AdobeXD" : "https://cdn-icons-png.flaticon.com/512/5611/5611129.png"
+              }
+            ]
+        },
+        {
+            "id": 23,
+            "image": "https://robohash.org/odioquivero.png",
+            "name": "Project 23",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/odioquivero1.png",
+                    "subimg_2": "https://robohash.org/odioquivero2.png",
+                    "subimg_3": "https://robohash.org/odioquivero3.png",
+                    "subimg_4": "https://robohash.org/odioquivero4.png",
+                    "subimg_5": "https://robohash.org/odioquivero5.png",
+                    "subimg_6": "https://robohash.org/odioquivero6.png",
+                    "subimg_7": "https://robohash.org/odioquivero7.png",
+                    "subimg_8": "https://robohash.org/odioquivero8.png",
+                    "subimg_9": "https://robohash.org/odioquivero9.png",
+                    "subimg_10": "https://robohash.org/odioquivero10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "CPlus": "https://cdn-icons-png.flaticon.com/512/6132/6132222.png",
+                "ReactJs": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png",
+                "NodeJs": "https://cdn.iconscout.com/icon/free/png-512/free-node-js-1174925.png?f=avif&w=256",
+                "NextJs": "https://static-00.iconduck.com/assets.00/nextjs-icon-2048x2048-eugu5rfi.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 24,
+            "image": "https://robohash.org/perferendisideveniet.png",
+            "name": "Project 24",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/perferendisideveniet1.png",
+                    "subimg_2": "https://robohash.org/perferendisideveniet2.png",
+                    "subimg_3": "https://robohash.org/perferendisideveniet3.png",
+                    "subimg_4": "https://robohash.org/perferendisideveniet4.png",
+                    "subimg_5": "https://robohash.org/perferendisideveniet5.png",
+                    "subimg_6": "https://robohash.org/perferendisideveniet6.png",
+                    "subimg_7": "https://robohash.org/perferendisideveniet7.png",
+                    "subimg_8": "https://robohash.org/perferendisideveniet8.png",
+                    "subimg_9": "https://robohash.org/perferendisideveniet9.png",
+                    "subimg_10": "https://robohash.org/perferendisideveniet10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "CPlus": "https://cdn-icons-png.flaticon.com/512/6132/6132222.png",
+                "ReactJs": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png",
+                "NodeJs": "https://cdn.iconscout.com/icon/free/png-512/free-node-js-1174925.png?f=avif&w=256",
+                "NextJs": "https://static-00.iconduck.com/assets.00/nextjs-icon-2048x2048-eugu5rfi.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 25,
+            "image": "https://robohash.org/porronumquamid.png",
+            "name": "Project 25",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/porronumquamid1.png",
+                    "subimg_2": "https://robohash.org/porronumquamid2.png",
+                    "subimg_3": "https://robohash.org/porronumquamid3.png",
+                    "subimg_4": "https://robohash.org/porronumquamid4.png",
+                    "subimg_5": "https://robohash.org/porronumquamid5.png",
+                    "subimg_6": "https://robohash.org/porronumquamid6.png",
+                    "subimg_7": "https://robohash.org/porronumquamid7.png",
+                    "subimg_8": "https://robohash.org/porronumquamid8.png",
+                    "subimg_9": "https://robohash.org/porronumquamid9.png",
+                    "subimg_10": "https://robohash.org/porronumquamid10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "NodeJs": "https://cdn.iconscout.com/icon/free/png-512/free-node-js-1174925.png?f=avif&w=256",
+                "VueJS": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/vue-js-icon.png",
+                "NextJs": "https://static-00.iconduck.com/assets.00/nextjs-icon-2048x2048-eugu5rfi.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png",
+                "AdobeXD" : "https://cdn-icons-png.flaticon.com/512/5611/5611129.png"
+              }
+            ]
+        },
+        {
+            "id": 26,
+            "image": "https://robohash.org/providenttemporadelectus.png",
+            "name": "Project 26",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/providenttemporadelectus1.png",
+                    "subimg_2": "https://robohash.org/providenttemporadelectus2.png",
+                    "subimg_3": "https://robohash.org/providenttemporadelectus3.png",
+                    "subimg_4": "https://robohash.org/providenttemporadelectus4.png",
+                    "subimg_5": "https://robohash.org/providenttemporadelectus5.png",
+                    "subimg_6": "https://robohash.org/providenttemporadelectus6.png",
+                    "subimg_7": "https://robohash.org/providenttemporadelectus7.png",
+                    "subimg_8": "https://robohash.org/providenttemporadelectus8.png",
+                    "subimg_9": "https://robohash.org/providenttemporadelectus9.png",
+                    "subimg_10": "https://robohash.org/providenttemporadelectus10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "Java": "https://cdn-icons-png.flaticon.com/512/5968/5968282.png",
+                "CHash": "https://cdn-icons-png.flaticon.com/512/6132/6132221.png",
+                "CPlus": "https://cdn-icons-png.flaticon.com/512/6132/6132222.png",
+                "angularJs": "https://angular.io/assets/images/logos/angular/angular.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 27,
+            "image": "https://robohash.org/quiaharumsapiente.png",
+            "name": "Project 27",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/quiaharumsapiente1.png",
+                    "subimg_2": "https://robohash.org/quiaharumsapiente2.png",
+                    "subimg_3": "https://robohash.org/quiaharumsapiente3.png",
+                    "subimg_4": "https://robohash.org/quiaharumsapiente4.png",
+                    "subimg_5": "https://robohash.org/quiaharumsapiente5.png",
+                    "subimg_6": "https://robohash.org/quiaharumsapiente6.png",
+                    "subimg_7": "https://robohash.org/quiaharumsapiente7.png",
+                    "subimg_8": "https://robohash.org/quiaharumsapiente8.png",
+                    "subimg_9": "https://robohash.org/quiaharumsapiente9.png",
+                    "subimg_10": "https://robohash.org/quiaharumsapiente10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "Java": "https://cdn-icons-png.flaticon.com/512/5968/5968282.png",
+                "CHash": "https://cdn-icons-png.flaticon.com/512/6132/6132221.png",
+                "CPlus": "https://cdn-icons-png.flaticon.com/512/6132/6132222.png",
+                "angularJs": "https://angular.io/assets/images/logos/angular/angular.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 28,
+            "image": "https://robohash.org/quisequienim.png",
+            "name": "Project 28",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/quisequienim1.png",
+                    "subimg_2": "https://robohash.org/quisequienim2.png",
+                    "subimg_3": "https://robohash.org/quisequienim3.png",
+                    "subimg_4": "https://robohash.org/quisequienim4.png",
+                    "subimg_5": "https://robohash.org/quisequienim5.png",
+                    "subimg_6": "https://robohash.org/quisequienim6.png",
+                    "subimg_7": "https://robohash.org/quisequienim7.png",
+                    "subimg_8": "https://robohash.org/quisequienim8.png",
+                    "subimg_9": "https://robohash.org/quisequienim9.png",
+                    "subimg_10": "https://robohash.org/quisequienim10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "Java": "https://cdn-icons-png.flaticon.com/512/5968/5968282.png",
+                "CHash": "https://cdn-icons-png.flaticon.com/512/6132/6132221.png",
+                "CPlus": "https://cdn-icons-png.flaticon.com/512/6132/6132222.png",
+                "angularJs": "https://angular.io/assets/images/logos/angular/angular.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 29,
+            "image": "https://robohash.org/temporarecusandaeest.png",
+            "name": "Project 29",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/temporarecusandaeest1.png",
+                    "subimg_2": "https://robohash.org/temporarecusandaeest2.png",
+                    "subimg_3": "https://robohash.org/temporarecusandaeest3.png",
+                    "subimg_4": "https://robohash.org/temporarecusandaeest4.png",
+                    "subimg_5": "https://robohash.org/temporarecusandaeest5.png",
+                    "subimg_6": "https://robohash.org/temporarecusandaeest6.png",
+                    "subimg_7": "https://robohash.org/temporarecusandaeest7.png",
+                    "subimg_8": "https://robohash.org/temporarecusandaeest8.png",
+                    "subimg_9": "https://robohash.org/temporarecusandaeest9.png",
+                    "subimg_10": "https://robohash.org/temporarecusandaeest10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "Java": "https://cdn-icons-png.flaticon.com/512/5968/5968282.png",
+                "CHash": "https://cdn-icons-png.flaticon.com/512/6132/6132221.png",
+                "CPlus": "https://cdn-icons-png.flaticon.com/512/6132/6132222.png",
+                "angularJs": "https://angular.io/assets/images/logos/angular/angular.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 30,
+            "image": "https://robohash.org/voluptatemsintnulla.png",
+            "name": "Project 30",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/voluptatemsintnulla1.png",
+                    "subimg_2": "https://robohash.org/voluptatemsintnulla2.png",
+                    "subimg_3": "https://robohash.org/voluptatemsintnulla3.png",
+                    "subimg_4": "https://robohash.org/voluptatemsintnulla4.png",
+                    "subimg_5": "https://robohash.org/voluptatemsintnulla5.png",
+                    "subimg_6": "https://robohash.org/voluptatemsintnulla6.png",
+                    "subimg_7": "https://robohash.org/voluptatemsintnulla7.png",
+                    "subimg_8": "https://robohash.org/voluptatemsintnulla8.png",
+                    "subimg_9": "https://robohash.org/voluptatemsintnulla9.png",
+                    "subimg_10": "https://robohash.org/voluptatemsintnulla10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "Java": "https://cdn-icons-png.flaticon.com/512/5968/5968282.png",
+                "CHash": "https://cdn-icons-png.flaticon.com/512/6132/6132221.png",
+                "CPlus": "https://cdn-icons-png.flaticon.com/512/6132/6132222.png",
+                "angularJs": "https://angular.io/assets/images/logos/angular/angular.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 31,
+            "image": "https://robohash.org/accusantiumvoluptateseos.png",
+            "name": "Project 31",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/accusantiumvoluptateseos1.png",
+                    "subimg_2": "https://robohash.org/accusantiumvoluptateseos2.png",
+                    "subimg_3": "https://robohash.org/accusantiumvoluptateseos3.png",
+                    "subimg_4": "https://robohash.org/accusantiumvoluptateseos4.png",
+                    "subimg_5": "https://robohash.org/accusantiumvoluptateseos5.png",
+                    "subimg_6": "https://robohash.org/accusantiumvoluptateseos6.png",
+                    "subimg_7": "https://robohash.org/accusantiumvoluptateseos7.png",
+                    "subimg_8": "https://robohash.org/accusantiumvoluptateseos8.png",
+                    "subimg_9": "https://robohash.org/accusantiumvoluptateseos9.png",
+                    "subimg_10": "https://robohash.org/accusantiumvoluptateseos10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "Html": "https://cdn-icons-png.flaticon.com/512/174/174854.png",
+                "Css": "https://cdn-icons-png.flaticon.com/512/732/732190.png",
+                "Java": "https://cdn-icons-png.flaticon.com/512/5968/5968282.png",
+                "angularJs": "https://angular.io/assets/images/logos/angular/angular.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 32,
+            "image": "https://robohash.org/adverovelit.png",
+            "name": "Project 32",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/adverovelit1.png",
+                    "subimg_2": "https://robohash.org/adverovelit2.png",
+                    "subimg_3": "https://robohash.org/adverovelit3.png",
+                    "subimg_4": "https://robohash.org/adverovelit4.png",
+                    "subimg_5": "https://robohash.org/adverovelit5.png",
+                    "subimg_6": "https://robohash.org/adverovelit6.png",
+                    "subimg_7": "https://robohash.org/adverovelit7.png",
+                    "subimg_8": "https://robohash.org/adverovelit8.png",
+                    "subimg_9": "https://robohash.org/adverovelit9.png",
+                    "subimg_10": "https://robohash.org/adverovelit10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "Html": "https://cdn-icons-png.flaticon.com/512/174/174854.png",
+                "Css": "https://cdn-icons-png.flaticon.com/512/732/732190.png",
+                "Java": "https://cdn-icons-png.flaticon.com/512/5968/5968282.png",
+                "angularJs": "https://angular.io/assets/images/logos/angular/angular.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 33,
+            "image": "https://robohash.org/aliquamcumqueiure.png",
+            "name": "Project 33",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/aliquamcumqueiure1.png",
+                    "subimg_2": "https://robohash.org/aliquamcumqueiure2.png",
+                    "subimg_3": "https://robohash.org/aliquamcumqueiure3.png",
+                    "subimg_4": "https://robohash.org/aliquamcumqueiure4.png",
+                    "subimg_5": "https://robohash.org/aliquamcumqueiure5.png",
+                    "subimg_6": "https://robohash.org/aliquamcumqueiure6.png",
+                    "subimg_7": "https://robohash.org/aliquamcumqueiure7.png",
+                    "subimg_8": "https://robohash.org/aliquamcumqueiure8.png",
+                    "subimg_9": "https://robohash.org/aliquamcumqueiure9.png",
+                    "subimg_10": "https://robohash.org/aliquamcumqueiure10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "Html": "https://cdn-icons-png.flaticon.com/512/174/174854.png",
+                "Css": "https://cdn-icons-png.flaticon.com/512/732/732190.png",
+                "Java": "https://cdn-icons-png.flaticon.com/512/5968/5968282.png",
+                "angularJs": "https://angular.io/assets/images/logos/angular/angular.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 34,
+            "image": "https://robohash.org/amettemporeea.png",
+            "name": "Project 34",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/amettemporeea1.png",
+                    "subimg_2": "https://robohash.org/amettemporeea2.png",
+                    "subimg_3": "https://robohash.org/amettemporeea3.png",
+                    "subimg_4": "https://robohash.org/amettemporeea4.png",
+                    "subimg_5": "https://robohash.org/amettemporeea5.png",
+                    "subimg_6": "https://robohash.org/amettemporeea6.png",
+                    "subimg_7": "https://robohash.org/amettemporeea7.png",
+                    "subimg_8": "https://robohash.org/amettemporeea8.png",
+                    "subimg_9": "https://robohash.org/amettemporeea9.png",
+                    "subimg_10": "https://robohash.org/amettemporeea10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "Html": "https://cdn-icons-png.flaticon.com/512/174/174854.png",
+                "Css": "https://cdn-icons-png.flaticon.com/512/732/732190.png",
+                "Java": "https://cdn-icons-png.flaticon.com/512/5968/5968282.png",
+                "angularJs": "https://angular.io/assets/images/logos/angular/angular.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 35,
+            "image": "https://robohash.org/autquiaut.png",
+            "name": "Project 35",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/autquiaut1.png",
+                    "subimg_2": "https://robohash.org/autquiaut2.png",
+                    "subimg_3": "https://robohash.org/autquiaut3.png",
+                    "subimg_4": "https://robohash.org/autquiaut4.png",
+                    "subimg_5": "https://robohash.org/autquiaut5.png",
+                    "subimg_6": "https://robohash.org/autquiaut6.png",
+                    "subimg_7": "https://robohash.org/autquiaut7.png",
+                    "subimg_8": "https://robohash.org/autquiaut8.png",
+                    "subimg_9": "https://robohash.org/autquiaut9.png",
+                    "subimg_10": "https://robohash.org/autquiaut10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "CPlus": "https://cdn-icons-png.flaticon.com/512/6132/6132222.png",
+                "ReactJs": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png",
+                "NodeJs": "https://cdn.iconscout.com/icon/free/png-512/free-node-js-1174925.png?f=avif&w=256",
+                "NextJs": "https://static-00.iconduck.com/assets.00/nextjs-icon-2048x2048-eugu5rfi.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 36,
+            "image": "https://robohash.org/consequunturabnon.png",
+            "name": "Project 36",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/consequunturabnon1.png",
+                    "subimg_2": "https://robohash.org/consequunturabnon2.png",
+                    "subimg_3": "https://robohash.org/consequunturabnon3.png",
+                    "subimg_4": "https://robohash.org/consequunturabnon4.png",
+                    "subimg_5": "https://robohash.org/consequunturabnon5.png",
+                    "subimg_6": "https://robohash.org/consequunturabnon6.png",
+                    "subimg_7": "https://robohash.org/consequunturabnon7.png",
+                    "subimg_8": "https://robohash.org/consequunturabnon8.png",
+                    "subimg_9": "https://robohash.org/consequunturabnon9.png",
+                    "subimg_10": "https://robohash.org/consequunturabnon10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "CPlus": "https://cdn-icons-png.flaticon.com/512/6132/6132222.png",
+                "ReactJs": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png",
+                "NodeJs": "https://cdn.iconscout.com/icon/free/png-512/free-node-js-1174925.png?f=avif&w=256",
+                "NextJs": "https://static-00.iconduck.com/assets.00/nextjs-icon-2048x2048-eugu5rfi.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 37,
+            "image": "https://robohash.org/consequunturautconsequatur.png",
+            "name": "Project 37",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/consequunturautconsequatur1.png",
+                    "subimg_2": "https://robohash.org/consequunturautconsequatur2.png",
+                    "subimg_3": "https://robohash.org/consequunturautconsequatur3.png",
+                    "subimg_4": "https://robohash.org/consequunturautconsequatur4.png",
+                    "subimg_5": "https://robohash.org/consequunturautconsequatur5.png",
+                    "subimg_6": "https://robohash.org/consequunturautconsequatur6.png",
+                    "subimg_7": "https://robohash.org/consequunturautconsequatur7.png",
+                    "subimg_8": "https://robohash.org/consequunturautconsequatur8.png",
+                    "subimg_9": "https://robohash.org/consequunturautconsequatur9.png",
+                    "subimg_10": "https://robohash.org/consequunturautconsequatur10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "CPlus": "https://cdn-icons-png.flaticon.com/512/6132/6132222.png",
+                "ReactJs": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png",
+                "NodeJs": "https://cdn.iconscout.com/icon/free/png-512/free-node-js-1174925.png?f=avif&w=256",
+                "NextJs": "https://static-00.iconduck.com/assets.00/nextjs-icon-2048x2048-eugu5rfi.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 38,
+            "image": "https://robohash.org/cupiditatererumquos.png",
+            "name": "Project 38",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/cupiditatererumquos1.png",
+                    "subimg_2": "https://robohash.org/cupiditatererumquos2.png",
+                    "subimg_3": "https://robohash.org/cupiditatererumquos3.png",
+                    "subimg_4": "https://robohash.org/cupiditatererumquos4.png",
+                    "subimg_5": "https://robohash.org/cupiditatererumquos5.png",
+                    "subimg_6": "https://robohash.org/cupiditatererumquos6.png",
+                    "subimg_7": "https://robohash.org/cupiditatererumquos7.png",
+                    "subimg_8": "https://robohash.org/cupiditatererumquos8.png",
+                    "subimg_9": "https://robohash.org/cupiditatererumquos9.png",
+                    "subimg_10": "https://robohash.org/cupiditatererumquos10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "CPlus": "https://cdn-icons-png.flaticon.com/512/6132/6132222.png",
+                "ReactJs": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png",
+                "NodeJs": "https://cdn.iconscout.com/icon/free/png-512/free-node-js-1174925.png?f=avif&w=256",
+                "NextJs": "https://static-00.iconduck.com/assets.00/nextjs-icon-2048x2048-eugu5rfi.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 39,
+            "image": "https://robohash.org/delenitipraesentiumvoluptatum.png",
+            "name": "Project 39",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/delenitipraesentiumvoluptatum1.png",
+                    "subimg_2": "https://robohash.org/delenitipraesentiumvoluptatum2.png",
+                    "subimg_3": "https://robohash.org/delenitipraesentiumvoluptatum3.png",
+                    "subimg_4": "https://robohash.org/delenitipraesentiumvoluptatum4.png",
+                    "subimg_5": "https://robohash.org/delenitipraesentiumvoluptatum5.png",
+                    "subimg_6": "https://robohash.org/delenitipraesentiumvoluptatum6.png",
+                    "subimg_7": "https://robohash.org/delenitipraesentiumvoluptatum7.png",
+                    "subimg_8": "https://robohash.org/delenitipraesentiumvoluptatum8.png",
+                    "subimg_9": "https://robohash.org/delenitipraesentiumvoluptatum9.png",
+                    "subimg_10": "https://robohash.org/delenitipraesentiumvoluptatum10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "CPlus": "https://cdn-icons-png.flaticon.com/512/6132/6132222.png",
+                "ReactJs": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png",
+                "NodeJs": "https://cdn.iconscout.com/icon/free/png-512/free-node-js-1174925.png?f=avif&w=256",
+                "NextJs": "https://static-00.iconduck.com/assets.00/nextjs-icon-2048x2048-eugu5rfi.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 40,
+            "image": "https://robohash.org/doloremautdolores.png",
+            "name": "Project 40",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/doloremautdolores1.png",
+                    "subimg_2": "https://robohash.org/doloremautdolores2.png",
+                    "subimg_3": "https://robohash.org/doloremautdolores3.png",
+                    "subimg_4": "https://robohash.org/doloremautdolores4.png",
+                    "subimg_5": "https://robohash.org/doloremautdolores5.png",
+                    "subimg_6": "https://robohash.org/doloremautdolores6.png",
+                    "subimg_7": "https://robohash.org/doloremautdolores7.png",
+                    "subimg_8": "https://robohash.org/doloremautdolores8.png",
+                    "subimg_9": "https://robohash.org/doloremautdolores9.png",
+                    "subimg_10": "https://robohash.org/doloremautdolores10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "NodeJs": "https://cdn.iconscout.com/icon/free/png-512/free-node-js-1174925.png?f=avif&w=256",
+                "VueJS": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/vue-js-icon.png",
+                "NextJs": "https://static-00.iconduck.com/assets.00/nextjs-icon-2048x2048-eugu5rfi.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png",
+                "AdobeXD" : "https://cdn-icons-png.flaticon.com/512/5611/5611129.png"
+              }
+            ]
+        },
+        {
+            "id": 41,
+            "image": "https://robohash.org/doloremquesintcorrupti.png",
+            "name": "Project 41",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/doloremquesintcorrupti1.png",
+                    "subimg_2": "https://robohash.org/doloremquesintcorrupti2.png",
+                    "subimg_3": "https://robohash.org/doloremquesintcorrupti3.png",
+                    "subimg_4": "https://robohash.org/doloremquesintcorrupti4.png",
+                    "subimg_5": "https://robohash.org/doloremquesintcorrupti5.png",
+                    "subimg_6": "https://robohash.org/doloremquesintcorrupti6.png",
+                    "subimg_7": "https://robohash.org/doloremquesintcorrupti7.png",
+                    "subimg_8": "https://robohash.org/doloremquesintcorrupti8.png",
+                    "subimg_9": "https://robohash.org/doloremquesintcorrupti9.png",
+                    "subimg_10": "https://robohash.org/doloremquesintcorrupti10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "NodeJs": "https://cdn.iconscout.com/icon/free/png-512/free-node-js-1174925.png?f=avif&w=256",
+                "VueJS": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/vue-js-icon.png",
+                "NextJs": "https://static-00.iconduck.com/assets.00/nextjs-icon-2048x2048-eugu5rfi.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png",
+                "AdobeXD" : "https://cdn-icons-png.flaticon.com/512/5611/5611129.png"
+              }
+            ]
+        },
+        {
+            "id": 42,
+            "image": "https://robohash.org/excepturiiuremolestiae.png",
+            "name": "Project 42",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/excepturiiuremolestiae1.png",
+                    "subimg_2": "https://robohash.org/excepturiiuremolestiae2.png",
+                    "subimg_3": "https://robohash.org/excepturiiuremolestiae3.png",
+                    "subimg_4": "https://robohash.org/excepturiiuremolestiae4.png",
+                    "subimg_5": "https://robohash.org/excepturiiuremolestiae5.png",
+                    "subimg_6": "https://robohash.org/excepturiiuremolestiae6.png",
+                    "subimg_7": "https://robohash.org/excepturiiuremolestiae7.png",
+                    "subimg_8": "https://robohash.org/excepturiiuremolestiae8.png",
+                    "subimg_9": "https://robohash.org/excepturiiuremolestiae9.png",
+                    "subimg_10": "https://robohash.org/excepturiiuremolestiae10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "NodeJs": "https://cdn.iconscout.com/icon/free/png-512/free-node-js-1174925.png?f=avif&w=256",
+                "VueJS": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/vue-js-icon.png",
+                "NextJs": "https://static-00.iconduck.com/assets.00/nextjs-icon-2048x2048-eugu5rfi.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png",
+                "AdobeXD" : "https://cdn-icons-png.flaticon.com/512/5611/5611129.png"
+              }
+            ]
+        },
+        {
+            "id": 43,
+            "image": "https://robohash.org/facilisdignissimosdolore.png",
+            "name": "Project 43",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/facilisdignissimosdolore1.png",
+                    "subimg_2": "https://robohash.org/facilisdignissimosdolore2.png",
+                    "subimg_3": "https://robohash.org/facilisdignissimosdolore3.png",
+                    "subimg_4": "https://robohash.org/facilisdignissimosdolore4.png",
+                    "subimg_5": "https://robohash.org/facilisdignissimosdolore5.png",
+                    "subimg_6": "https://robohash.org/facilisdignissimosdolore6.png",
+                    "subimg_7": "https://robohash.org/facilisdignissimosdolore7.png",
+                    "subimg_8": "https://robohash.org/facilisdignissimosdolore8.png",
+                    "subimg_9": "https://robohash.org/facilisdignissimosdolore9.png",
+                    "subimg_10": "https://robohash.org/facilisdignissimosdolore10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "NodeJs": "https://cdn.iconscout.com/icon/free/png-512/free-node-js-1174925.png?f=avif&w=256",
+                "VueJS": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/vue-js-icon.png",
+                "NextJs": "https://static-00.iconduck.com/assets.00/nextjs-icon-2048x2048-eugu5rfi.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png",
+                "AdobeXD" : "https://cdn-icons-png.flaticon.com/512/5611/5611129.png"
+              }
+            ]
+        },
+        {
+            "id": 44,
+            "image": "https://robohash.org/hicveldicta.png",
+            "name": "Project 44",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/hicveldicta1.png",
+                    "subimg_2": "https://robohash.org/hicveldicta2.png",
+                    "subimg_3": "https://robohash.org/hicveldicta3.png",
+                    "subimg_4": "https://robohash.org/hicveldicta4.png",
+                    "subimg_5": "https://robohash.org/hicveldicta5.png",
+                    "subimg_6": "https://robohash.org/hicveldicta6.png",
+                    "subimg_7": "https://robohash.org/hicveldicta7.png",
+                    "subimg_8": "https://robohash.org/hicveldicta8.png",
+                    "subimg_9": "https://robohash.org/hicveldicta9.png",
+                    "subimg_10": "https://robohash.org/hicveldicta10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "NodeJs": "https://cdn.iconscout.com/icon/free/png-512/free-node-js-1174925.png?f=avif&w=256",
+                "VueJS": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/vue-js-icon.png",
+                "NextJs": "https://static-00.iconduck.com/assets.00/nextjs-icon-2048x2048-eugu5rfi.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png",
+                "AdobeXD" : "https://cdn-icons-png.flaticon.com/512/5611/5611129.png"
+              }
+            ]
+        },
+        {
+            "id": 45,
+            "image": "https://robohash.org/impeditautest.png",
+            "name": "Project 45",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/impeditautest1.png",
+                    "subimg_2": "https://robohash.org/impeditautest2.png",
+                    "subimg_3": "https://robohash.org/impeditautest3.png",
+                    "subimg_4": "https://robohash.org/impeditautest4.png",
+                    "subimg_5": "https://robohash.org/impeditautest5.png",
+                    "subimg_6": "https://robohash.org/impeditautest6.png",
+                    "subimg_7": "https://robohash.org/impeditautest7.png",
+                    "subimg_8": "https://robohash.org/impeditautest8.png",
+                    "subimg_9": "https://robohash.org/impeditautest9.png",
+                    "subimg_10": "https://robohash.org/impeditautest10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "Java": "https://cdn-icons-png.flaticon.com/512/5968/5968282.png",
+                "CHash": "https://cdn-icons-png.flaticon.com/512/6132/6132221.png",
+                "CPlus": "https://cdn-icons-png.flaticon.com/512/6132/6132222.png",
+                "angularJs": "https://angular.io/assets/images/logos/angular/angular.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 46,
+            "image": "https://robohash.org/ipsumutofficiis.png",
+            "name": "Project 46",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/ipsumutofficiis1.png",
+                    "subimg_2": "https://robohash.org/ipsumutofficiis2.png",
+                    "subimg_3": "https://robohash.org/ipsumutofficiis3.png",
+                    "subimg_4": "https://robohash.org/ipsumutofficiis4.png",
+                    "subimg_5": "https://robohash.org/ipsumutofficiis5.png",
+                    "subimg_6": "https://robohash.org/ipsumutofficiis6.png",
+                    "subimg_7": "https://robohash.org/ipsumutofficiis7.png",
+                    "subimg_8": "https://robohash.org/ipsumutofficiis8.png",
+                    "subimg_9": "https://robohash.org/ipsumutofficiis9.png",
+                    "subimg_10": "https://robohash.org/ipsumutofficiis10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "Java": "https://cdn-icons-png.flaticon.com/512/5968/5968282.png",
+                "CHash": "https://cdn-icons-png.flaticon.com/512/6132/6132221.png",
+                "CPlus": "https://cdn-icons-png.flaticon.com/512/6132/6132222.png",
+                "angularJs": "https://angular.io/assets/images/logos/angular/angular.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 47,
+            "image": "https://robohash.org/laboriosamfacilisrem.png",
+            "name": "Project 47",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/laboriosamfacilisrem1.png",
+                    "subimg_2": "https://robohash.org/laboriosamfacilisrem2.png",
+                    "subimg_3": "https://robohash.org/laboriosamfacilisrem3.png",
+                    "subimg_4": "https://robohash.org/laboriosamfacilisrem4.png",
+                    "subimg_5": "https://robohash.org/laboriosamfacilisrem5.png",
+                    "subimg_6": "https://robohash.org/laboriosamfacilisrem6.png",
+                    "subimg_7": "https://robohash.org/laboriosamfacilisrem7.png",
+                    "subimg_8": "https://robohash.org/laboriosamfacilisrem8.png",
+                    "subimg_9": "https://robohash.org/laboriosamfacilisrem9.png",
+                    "subimg_10": "https://robohash.org/laboriosamfacilisrem10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "Java": "https://cdn-icons-png.flaticon.com/512/5968/5968282.png",
+                "CHash": "https://cdn-icons-png.flaticon.com/512/6132/6132221.png",
+                "CPlus": "https://cdn-icons-png.flaticon.com/512/6132/6132222.png",
+                "angularJs": "https://angular.io/assets/images/logos/angular/angular.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 48,
+            "image": "https://robohash.org/laboriosammollitiaut.png",
+            "name": "Project 48",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/laboriosammollitiaut1.png",
+                    "subimg_2": "https://robohash.org/laboriosammollitiaut2.png",
+                    "subimg_3": "https://robohash.org/laboriosammollitiaut3.png",
+                    "subimg_4": "https://robohash.org/laboriosammollitiaut4.png",
+                    "subimg_5": "https://robohash.org/laboriosammollitiaut5.png",
+                    "subimg_6": "https://robohash.org/laboriosammollitiaut6.png",
+                    "subimg_7": "https://robohash.org/laboriosammollitiaut7.png",
+                    "subimg_8": "https://robohash.org/laboriosammollitiaut8.png",
+                    "subimg_9": "https://robohash.org/laboriosammollitiaut9.png",
+                    "subimg_10": "https://robohash.org/laboriosammollitiaut10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "Java": "https://cdn-icons-png.flaticon.com/512/5968/5968282.png",
+                "CHash": "https://cdn-icons-png.flaticon.com/512/6132/6132221.png",
+                "CPlus": "https://cdn-icons-png.flaticon.com/512/6132/6132222.png",
+                "angularJs": "https://angular.io/assets/images/logos/angular/angular.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 49,
+            "image": "https://robohash.org/namquaerataut.png",
+            "name": "Project 49",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/namquaerataut1.png",
+                    "subimg_2": "https://robohash.org/namquaerataut2.png",
+                    "subimg_3": "https://robohash.org/namquaerataut3.png",
+                    "subimg_4": "https://robohash.org/namquaerataut4.png",
+                    "subimg_5": "https://robohash.org/namquaerataut5.png",
+                    "subimg_6": "https://robohash.org/namquaerataut6.png",
+                    "subimg_7": "https://robohash.org/namquaerataut7.png",
+                    "subimg_8": "https://robohash.org/namquaerataut8.png",
+                    "subimg_9": "https://robohash.org/namquaerataut9.png",
+                    "subimg_10": "https://robohash.org/namquaerataut10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "Java": "https://cdn-icons-png.flaticon.com/512/5968/5968282.png",
+                "CHash": "https://cdn-icons-png.flaticon.com/512/6132/6132221.png",
+                "CPlus": "https://cdn-icons-png.flaticon.com/512/6132/6132222.png",
+                "angularJs": "https://angular.io/assets/images/logos/angular/angular.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 50,
+            "image": "https://robohash.org/nequeodiosapiente.png",
+            "name": "Project 50",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/nequeodiosapiente1.png",
+                    "subimg_2": "https://robohash.org/nequeodiosapiente2.png",
+                    "subimg_3": "https://robohash.org/nequeodiosapiente3.png",
+                    "subimg_4": "https://robohash.org/nequeodiosapiente4.png",
+                    "subimg_5": "https://robohash.org/nequeodiosapiente5.png",
+                    "subimg_6": "https://robohash.org/nequeodiosapiente6.png",
+                    "subimg_7": "https://robohash.org/nequeodiosapiente7.png",
+                    "subimg_8": "https://robohash.org/nequeodiosapiente8.png",
+                    "subimg_9": "https://robohash.org/nequeodiosapiente9.png",
+                    "subimg_10": "https://robohash.org/nequeodiosapiente10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "Html": "https://cdn-icons-png.flaticon.com/512/174/174854.png",
+                "Css": "https://cdn-icons-png.flaticon.com/512/732/732190.png",
+                "Bootstrap": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png",
+                "Wordpress": "https://cdn-icons-png.flaticon.com/512/174/174881.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 51,
+            "image": "https://robohash.org/nihilharumqui.png",
+            "name": "Project 51",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/nihilharumqui1.png",
+                    "subimg_2": "https://robohash.org/nihilharumqui2.png",
+                    "subimg_3": "https://robohash.org/nihilharumqui3.png",
+                    "subimg_4": "https://robohash.org/nihilharumqui4.png",
+                    "subimg_5": "https://robohash.org/nihilharumqui5.png",
+                    "subimg_6": "https://robohash.org/nihilharumqui6.png",
+                    "subimg_7": "https://robohash.org/nihilharumqui7.png",
+                    "subimg_8": "https://robohash.org/nihilharumqui8.png",
+                    "subimg_9": "https://robohash.org/nihilharumqui9.png",
+                    "subimg_10": "https://robohash.org/nihilharumqui10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "Html": "https://cdn-icons-png.flaticon.com/512/174/174854.png",
+                "Css": "https://cdn-icons-png.flaticon.com/512/732/732190.png",
+                "Bootstrap": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png",
+                "Wordpress": "https://cdn-icons-png.flaticon.com/512/174/174881.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 52,
+            "image": "https://robohash.org/odiomolestiaealias.png",
+            "name": "Project 52",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/odiomolestiaealias1.png",
+                    "subimg_2": "https://robohash.org/odiomolestiaealias2.png",
+                    "subimg_3": "https://robohash.org/odiomolestiaealias3.png",
+                    "subimg_4": "https://robohash.org/odiomolestiaealias4.png",
+                    "subimg_5": "https://robohash.org/odiomolestiaealias5.png",
+                    "subimg_6": "https://robohash.org/odiomolestiaealias6.png",
+                    "subimg_7": "https://robohash.org/odiomolestiaealias7.png",
+                    "subimg_8": "https://robohash.org/odiomolestiaealias8.png",
+                    "subimg_9": "https://robohash.org/odiomolestiaealias9.png",
+                    "subimg_10": "https://robohash.org/odiomolestiaealias10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "Html": "https://cdn-icons-png.flaticon.com/512/174/174854.png",
+                "Css": "https://cdn-icons-png.flaticon.com/512/732/732190.png",
+                "Bootstrap": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png",
+                "Wordpress": "https://cdn-icons-png.flaticon.com/512/174/174881.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 53,
+            "image": "https://robohash.org/odioquivero.png",
+            "name": "Project 53",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/odioquivero1.png",
+                    "subimg_2": "https://robohash.org/odioquivero2.png",
+                    "subimg_3": "https://robohash.org/odioquivero3.png",
+                    "subimg_4": "https://robohash.org/odioquivero4.png",
+                    "subimg_5": "https://robohash.org/odioquivero5.png",
+                    "subimg_6": "https://robohash.org/odioquivero6.png",
+                    "subimg_7": "https://robohash.org/odioquivero7.png",
+                    "subimg_8": "https://robohash.org/odioquivero8.png",
+                    "subimg_9": "https://robohash.org/odioquivero9.png",
+                    "subimg_10": "https://robohash.org/odioquivero10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "Html": "https://cdn-icons-png.flaticon.com/512/174/174854.png",
+                "Css": "https://cdn-icons-png.flaticon.com/512/732/732190.png",
+                "Bootstrap": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png",
+                "Wordpress": "https://cdn-icons-png.flaticon.com/512/174/174881.png",
+                "Figma" : "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+              }
+            ]
+        },
+        {
+            "id": 54,
+            "image": "https://robohash.org/perferendisideveniet.png",
+            "name": "Project 54",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/perferendisideveniet1.png",
+                    "subimg_2": "https://robohash.org/perferendisideveniet2.png",
+                    "subimg_3": "https://robohash.org/perferendisideveniet3.png",
+                    "subimg_4": "https://robohash.org/perferendisideveniet4.png",
+                    "subimg_5": "https://robohash.org/perferendisideveniet5.png",
+                    "subimg_6": "https://robohash.org/perferendisideveniet6.png",
+                    "subimg_7": "https://robohash.org/perferendisideveniet7.png",
+                    "subimg_8": "https://robohash.org/perferendisideveniet8.png",
+                    "subimg_9": "https://robohash.org/perferendisideveniet9.png",
+                    "subimg_10": "https://robohash.org/perferendisideveniet10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "Html": "https://cdn-icons-png.flaticon.com/512/174/174854.png",
+                "Css": "https://cdn-icons-png.flaticon.com/512/732/732190.png",
+                "CHash": "https://cdn-icons-png.flaticon.com/512/6132/6132221.png",
+                "Python" : "https://www.svgrepo.com/show/376344/python.svg",
+                "AdobeXD" : "https://cdn-icons-png.flaticon.com/512/5611/5611129.png"
+              }
+            ]
+        },
+        {
+            "id": 55,
+            "image": "https://robohash.org/porronumquamid.png",
+            "name": "Project 55",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/porronumquamid1.png",
+                    "subimg_2": "https://robohash.org/porronumquamid2.png",
+                    "subimg_3": "https://robohash.org/porronumquamid3.png",
+                    "subimg_4": "https://robohash.org/porronumquamid4.png",
+                    "subimg_5": "https://robohash.org/porronumquamid5.png",
+                    "subimg_6": "https://robohash.org/porronumquamid6.png",
+                    "subimg_7": "https://robohash.org/porronumquamid7.png",
+                    "subimg_8": "https://robohash.org/porronumquamid8.png",
+                    "subimg_9": "https://robohash.org/porronumquamid9.png",
+                    "subimg_10": "https://robohash.org/porronumquamid10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "Html": "https://cdn-icons-png.flaticon.com/512/174/174854.png",
+                "Css": "https://cdn-icons-png.flaticon.com/512/732/732190.png",
+                "CHash": "https://cdn-icons-png.flaticon.com/512/6132/6132221.png",
+                "Python" : "https://www.svgrepo.com/show/376344/python.svg",
+                "AdobeXD" : "https://cdn-icons-png.flaticon.com/512/5611/5611129.png"
+              }
+            ]
+        },
+        {
+            "id": 56,
+            "image": "https://robohash.org/providenttemporadelectus.png",
+            "name": "Project 56",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/providenttemporadelectus1.png",
+                    "subimg_2": "https://robohash.org/providenttemporadelectus2.png",
+                    "subimg_3": "https://robohash.org/providenttemporadelectus3.png",
+                    "subimg_4": "https://robohash.org/providenttemporadelectus4.png",
+                    "subimg_5": "https://robohash.org/providenttemporadelectus5.png",
+                    "subimg_6": "https://robohash.org/providenttemporadelectus6.png",
+                    "subimg_7": "https://robohash.org/providenttemporadelectus7.png",
+                    "subimg_8": "https://robohash.org/providenttemporadelectus8.png",
+                    "subimg_9": "https://robohash.org/providenttemporadelectus9.png",
+                    "subimg_10": "https://robohash.org/providenttemporadelectus10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "Html": "https://cdn-icons-png.flaticon.com/512/174/174854.png",
+                "Css": "https://cdn-icons-png.flaticon.com/512/732/732190.png",
+                "CHash": "https://cdn-icons-png.flaticon.com/512/6132/6132221.png",
+                "Python" : "https://www.svgrepo.com/show/376344/python.svg",
+                "AdobeXD" : "https://cdn-icons-png.flaticon.com/512/5611/5611129.png"
+              }
+            ]
+        },
+        {
+            "id": 57,
+            "image": "https://robohash.org/quiaharumsapiente.png",
+            "name": "Project 57",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/quiaharumsapiente1.png",
+                    "subimg_2": "https://robohash.org/quiaharumsapiente2.png",
+                    "subimg_3": "https://robohash.org/quiaharumsapiente3.png",
+                    "subimg_4": "https://robohash.org/quiaharumsapiente4.png",
+                    "subimg_5": "https://robohash.org/quiaharumsapiente5.png",
+                    "subimg_6": "https://robohash.org/quiaharumsapiente6.png",
+                    "subimg_7": "https://robohash.org/quiaharumsapiente7.png",
+                    "subimg_8": "https://robohash.org/quiaharumsapiente8.png",
+                    "subimg_9": "https://robohash.org/quiaharumsapiente9.png",
+                    "subimg_10": "https://robohash.org/quiaharumsapiente10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "Html": "https://cdn-icons-png.flaticon.com/512/174/174854.png",
+                "Css": "https://cdn-icons-png.flaticon.com/512/732/732190.png",
+                "CHash": "https://cdn-icons-png.flaticon.com/512/6132/6132221.png",
+                "Python" : "https://www.svgrepo.com/show/376344/python.svg",
+                "AdobeXD" : "https://cdn-icons-png.flaticon.com/512/5611/5611129.png"
+              }
+            ]
+        },
+        {
+            "id": 58,
+            "image": "https://robohash.org/quisequienim.png",
+            "name": "Project 58",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/quisequienim1.png",
+                    "subimg_2": "https://robohash.org/quisequienim2.png",
+                    "subimg_3": "https://robohash.org/quisequienim3.png",
+                    "subimg_4": "https://robohash.org/quisequienim4.png",
+                    "subimg_5": "https://robohash.org/quisequienim5.png",
+                    "subimg_6": "https://robohash.org/quisequienim6.png",
+                    "subimg_7": "https://robohash.org/quisequienim7.png",
+                    "subimg_8": "https://robohash.org/quisequienim8.png",
+                    "subimg_9": "https://robohash.org/quisequienim9.png",
+                    "subimg_10": "https://robohash.org/quisequienim10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "Html": "https://cdn-icons-png.flaticon.com/512/174/174854.png",
+                "Css": "https://cdn-icons-png.flaticon.com/512/732/732190.png",
+                "CHash": "https://cdn-icons-png.flaticon.com/512/6132/6132221.png",
+                "Python" : "https://www.svgrepo.com/show/376344/python.svg",
+                "AdobeXD" : "https://cdn-icons-png.flaticon.com/512/5611/5611129.png"
+              }
+            ]
+        },
+        {
+            "id": 59,
+            "image": "https://robohash.org/temporarecusandaeest.png",
+            "name": "Project 59",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/temporarecusandaeest1.png",
+                    "subimg_2": "https://robohash.org/temporarecusandaeest2.png",
+                    "subimg_3": "https://robohash.org/temporarecusandaeest3.png",
+                    "subimg_4": "https://robohash.org/temporarecusandaeest4.png",
+                    "subimg_5": "https://robohash.org/temporarecusandaeest5.png",
+                    "subimg_6": "https://robohash.org/temporarecusandaeest6.png",
+                    "subimg_7": "https://robohash.org/temporarecusandaeest7.png",
+                    "subimg_8": "https://robohash.org/temporarecusandaeest8.png",
+                    "subimg_9": "https://robohash.org/temporarecusandaeest9.png",
+                    "subimg_10": "https://robohash.org/temporarecusandaeest10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ],
+            "project_stacks": [
+              {
+                "Html": "https://cdn-icons-png.flaticon.com/512/174/174854.png",
+                "Css": "https://cdn-icons-png.flaticon.com/512/732/732190.png",
+                "CHash": "https://cdn-icons-png.flaticon.com/512/6132/6132221.png",
+                "Python" : "https://www.svgrepo.com/show/376344/python.svg",
+                "AdobeXD" : "https://cdn-icons-png.flaticon.com/512/5611/5611129.png"
+              }
+            ]
+        },
+        {
+            "id": 60,
+            "image": "https://robohash.org/voluptatemsintnulla.png",
+            "name": "Project 60",
+            "short_dec": "This is a long text that will be truncated with an ellipsis.",
+            "dimages": [
+                {
+                  "id": "variant_id1",
+                  "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                  "lable": "project info",
+                  "employer": "ronak",
+                  "project_time": "1 Month Ago",
+                  "imageSlider": {
+                    "subimg_1": "https://robohash.org/voluptatemsintnulla1.png",
+                    "subimg_2": "https://robohash.org/voluptatemsintnulla2.png",
+                    "subimg_3": "https://robohash.org/voluptatemsintnulla3.png",
+                    "subimg_4": "https://robohash.org/voluptatemsintnulla4.png",
+                    "subimg_5": "https://robohash.org/voluptatemsintnulla5.png",
+                    "subimg_6": "https://robohash.org/voluptatemsintnulla6.png",
+                    "subimg_7": "https://robohash.org/voluptatemsintnulla7.png",
+                    "subimg_8": "https://robohash.org/voluptatemsintnulla8.png",
+                    "subimg_9": "https://robohash.org/voluptatemsintnulla9.png",
+                    "subimg_10": "https://robohash.org/voluptatemsintnulla10.png"
+                  },
+                  "attributes": {
+                    "color": "Red",
+                    "size": "Large"
+                  }
+                }
+            ]
+        }
+    ]
+}
