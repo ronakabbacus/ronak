@@ -1,8 +1,12 @@
-import React from "react";
+import React, {useEffect} from "react";
 import { Link } from "react-router-dom";
 import Footer from "../components/footer";
 
 const AboutUS = () => {
+    // Set the page title
+    useEffect(() => {
+        document.title = 'About Us - rm-graphic';
+      }, []);
     return(
         <>
             <div className="container">

@@ -1,9 +1,14 @@
-import React from "react";
+import React, {useEffect} from "react";
 import { Link } from "react-router-dom";
 import Footer from "../components/footer";
 import TeamMember from "../components/TeamMember";
 
 const OurTeam = () => {
+    useEffect(() => {
+        // Set the page title when the component is mounted
+        document.title = 'Our Team - rm-graphic';
+      }, []);
+
     return (
         <>
             <div className="container">

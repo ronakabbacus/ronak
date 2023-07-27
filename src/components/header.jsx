@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { Link, NavLink, Route, Routes, useLocation } from 'react-router-dom';
 import Home from '../pages/Home';
 import Project from '../pages/Projects';
@@ -7,16 +7,25 @@ import Services from '../pages/Services';
 import ContactUS from '../pages/ContactUs';
 import WhyUs from '../pages/WhyUs';
 import Logo from '../assets/images/logo.svg';
-import ProductDetail from './ProductView/ProductDetailPage'; // Import the ProductDetail comp
+import callIcon from '../assets/images/phone-call.svg';
+import ProductDetail from './ProductView/ProductDetailPage';
 import PrivacyPolicies from '../pages/Policies';
 import OurTeam from '../pages/OurTeam';
 import MemberDetail from './ourTeam/memberDetail';
 
-// Placeholder ProductDetail component
-
-
 function Header() {
   const location = useLocation();
+  const [isMenuOpen, setIsMenuOpen] = useState(false);
+
+  const handleMenuToggle = () => {
+    setIsMenuOpen(!isMenuOpen);
+  };
+
+  // Close the menu when a new page is opened
+  useEffect(() => {
+    setIsMenuOpen(false);
+  }, [location]);
+
   return (
     <div>
       <header>
@@ -29,7 +38,7 @@ function Header() {
                 </h1>
               </Link>
             </div>
-            <div className="right-links">
+            <div className={`right-links ${isMenuOpen ? 'menu-open' : ''}`}>
               <ul className="main-menu">
                 <li>
                   <NavLink to="/project" style={({ isActive, isPending }) => { return { color: isActive ? '$AlizarinCrimson' : '$DarkCerulean' }; }} className={ location.pathname.includes('/productDetail') ? 'active' : '' } > Projects </NavLink>
@@ -47,15 +56,17 @@ function Header() {
                   <NavLink to="/why-us" style={({ isActive, isPending }) => { return { color: isActive ? '$AlizarinCrimson' : '$DarkCerulean' }; }} className={({ isActive, isPending }) => { return isActive ? 'active' : isPending ? 'pending' : ''; }} > Why Us </NavLink>
                 </li>
               </ul>
-              <NavLink to="/contact-us" className="contact-btn">
-                Contact Us
-              </NavLink>
+              <NavLink to="/contact-us" className="contact-btn"><span>Contact Us</span><img src={callIcon} alt="Phone Icon" /></NavLink>
             </div>
+            <button className={`menu-toggle-btn ${isMenuOpen ? 'open' : ''}`} onClick={handleMenuToggle}>
+              <span></span>
+              <span></span>
+            </button>
           </nav>
         </div>
       </header>
       <Routes>
-        <Route path='/ronak' element={<Home />} />
+        <Route path="/ronak" element={<Home />} />
         <Route path="/" element={<Home />} />
         <Route path="/project" element={<Project />} />
         <Route path="/our-team" element={<OurTeam />} />

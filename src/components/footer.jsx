@@ -10,6 +10,7 @@ import envelope from '../assets/images/envelope-solid.svg';
 
 
 const Footer = () => {
+    const currentYear = new Date().getFullYear();
     return(
         <footer>
             <div className="container">
@@ -54,7 +55,7 @@ const Footer = () => {
                 </div>
             </div>
             <div className="privacy-policies">
-                <Link to={'/PrivacyPolicies'}>All rights reserved</Link>
+                <Link to={'/PrivacyPolicies'}>&copy; {currentYear} Your Company. All rights reserved.</Link>
             </div>
         </footer>
     );

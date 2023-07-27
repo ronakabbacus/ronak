@@ -1,9 +1,15 @@
-import React from "react";
+import React, {useEffect} from "react";
 import { Link } from "react-router-dom";
 import ContactFrom from "../components/ContactFrom";
 import Footer from "../components/footer";
 
 const ContactUS = () => {
+    
+    // Set the page title
+    useEffect(() => {
+        document.title = 'Contact Us - rm-graphic';
+    }, []);
+      
     return (
         <>
             <div className="container">

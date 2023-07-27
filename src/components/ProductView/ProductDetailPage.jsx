@@ -5,6 +5,7 @@ import ProjectsData from '../../json/projects.json';
 import Footer from '../footer';
 
 const ProductDetail = () => {
+
   const { id } = useParams();
   const [selectedImage, setSelectedImage] = useState(null);
   const product = ProjectsData.images.find(item => item.id === parseInt(id));
@@ -14,6 +15,15 @@ const ProductDetail = () => {
     if (product && product.dimages.length > 0 && !selectedImage) {
       setSelectedImage(Object.values(product.dimages[0].imageSlider)[0]);
     }
+
+    // Set the page title
+    const pageTitle = product && product.name ? `${product.name} - rm-graphic` : 'rm-graphic';
+    document.title = pageTitle;
+    
+    return () => {
+      document.title = 'rm-graphic';
+    };
+
   }, [product, selectedImage]);
 
   const handleImageClick = (imageUrl) => {

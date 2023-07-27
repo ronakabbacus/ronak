@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import axios from 'axios';
-import '../assets/scss/style.scss';
 import CloseIcon from '../assets/images/close-icon.svg';
 import contactImg from "../assets/images/contact-form-img.svg";
 
