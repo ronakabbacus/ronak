@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ronak/static/css/main.0dd9feb6.css",
-    "main.js": "/ronak/static/js/main.1b3df5bb.js",
+    "main.css": "/ronak/static/css/main.4e07b3d7.css",
+    "main.js": "/ronak/static/js/main.71c16498.js",
     "static/media/Poppins-Regular.svg": "/ronak/static/media/Poppins-Regular.3383485fc42dbbbbb52d.svg",
     "static/media/Poppins-Medium.svg": "/ronak/static/media/Poppins-Medium.5dad75f36f319c002635.svg",
     "static/media/Poppins-SemiBold.svg": "/ronak/static/media/Poppins-SemiBold.24b955c03495ee435e5d.svg",
@@ -16,9 +16,11 @@
     "static/media/Poppins-Bold.woff2": "/ronak/static/media/Poppins-Bold.dd24d10e037690f2bdcd.woff2",
     "static/media/Poppins-Medium.woff2": "/ronak/static/media/Poppins-Medium.563f976db73ca07d8fc3.woff2",
     "static/media/contact-form-img.svg": "/ronak/static/media/contact-form-img.0129b8f2a1e8d0c6270a480d1fbbb1bb.svg",
+    "static/media/phone-call.svg": "/ronak/static/media/phone-call.0b7e088b24b67403380285cd4b783d29.svg",
     "static/media/icomoon.eot?h3y1ha": "/ronak/static/media/icomoon.9971e3dba152738bb9db.eot",
     "static/media/icomoon.woff?h3y1ha": "/ronak/static/media/icomoon.7c6a51b09e80eb4283a4.woff",
     "static/media/icomoon.svg?h3y1ha": "/ronak/static/media/icomoon.06fdb6ffe84ba0fd6844.svg",
+    "static/media/burger-menu.svg": "/ronak/static/media/burger-menu.7fb0e6ad390f582c7c48.svg",
     "static/media/icomoon.ttf?h3y1ha": "/ronak/static/media/icomoon.081b14266cca74c8bc7c.ttf",
     "static/media/logo.svg": "/ronak/static/media/logo.a38cc468f41ae352860a88ac196dc1d4.svg",
     "static/media/instagram.svg": "/ronak/static/media/instagram.cbaaaceccf47ba47154ea1b6c3093967.svg",
@@ -36,11 +38,11 @@
     "static/media/phone-solid.svg": "/ronak/static/media/phone-solid.ca28a64380b0469a134d2076139bbd6d.svg",
     "static/media/facebook.svg": "/ronak/static/media/facebook.75296d79a9e7fba6e36c1d1e596e0e7d.svg",
     "static/media/envelope-solid.svg": "/ronak/static/media/envelope-solid.789d07e05b59547cc5583f1884b3004c.svg",
-    "main.0dd9feb6.css.map": "/ronak/static/css/main.0dd9feb6.css.map",
-    "main.1b3df5bb.js.map": "/ronak/static/js/main.1b3df5bb.js.map"
+    "main.4e07b3d7.css.map": "/ronak/static/css/main.4e07b3d7.css.map",
+    "main.71c16498.js.map": "/ronak/static/js/main.71c16498.js.map"
   },
   "entrypoints": [
-    "static/css/main.0dd9feb6.css",
-    "static/js/main.1b3df5bb.js"
+    "static/css/main.4e07b3d7.css",
+    "static/js/main.71c16498.js"
   ]
 }
